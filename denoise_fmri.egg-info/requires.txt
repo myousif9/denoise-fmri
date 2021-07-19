@@ -1,0 +1,5 @@
+snakebids>=0.3.9
+snakemake>=6
+nilearn
+pandas
+numpy
